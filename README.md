@@ -31,9 +31,11 @@ biz-tools generate --type all --business 民宿 --name "宝缦美宿"
 
 ## 赞助
 
-如果这个工具帮你省了时间，欢迎赞助支持持续开发：
+如果这个工具帮你省了时间，欢迎微信扫码赞助支持持续开发：
 
-[💖 赞助本项目](https://github.com/sponsors/BasaraNekki500)
+![微信收款码](assets/wechat_pay.jpg)
+
+**扫一扫，¥19.9 获取完整工具包 + 永久更新**
 
 ## License
 
